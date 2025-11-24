@@ -8,6 +8,9 @@ https://colab.research.google.com/drive/1J2aDgIVH_8-TtCQHSeTpiAXqV2fltO__?usp=sh
 🔗 GitHub Repository:
 https://github.com/thrinesh07/bitcoin-sentiment-trader-analysis.git
 
+🔗 Final Report (PDF):
+https://drive.google.com/file/d/16ShdOMCVOnA7FLfDzvbPy_9cL8wD094b/view?usp=sharing
+
 
 ## Candidate Name:
 Thrinesh Yerra
@@ -76,5 +79,6 @@ patterns that can help in building smarter and more data-driven trading strategi
 4. All required output files will be generated automatically
 
 Prepared by: Thrinesh Yerra
+
 
 
